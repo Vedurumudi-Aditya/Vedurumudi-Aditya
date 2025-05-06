@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Vedurumudi Aditya** — a student from **Hyderabad, India**  <br>I’m passionate about learning and building solutions using data and automation.<br><br>- 🌱 I’m currently learning **data analysis skills using Python and SQL**<br>- 💼 I’m currently working on **Gym_Reservation_Bot**<br>- 💬 Ask me about **data analysis, Python scripting, or automation bots**<br>- ⚡ Fun fact: I like turning repetitive tasks into code so I never have to do them twice!<br><br>📫 Reach me at:  <br>[![LinkedIn](https://img.shields.io/badge/-Vedurumudi%20Aditya-blue?logo=linkedin)](https://www.linkedin.com/in/vedurumudi-aditya/)  <br>[![Email](https://img.shields.io/badge/-adityavedurumudi@gmail.com-red?logo=gmail)](mailto:adityavedurumudi@gmail.com)<br>
+## 👋 About Me<br><br>Hi, I'm **Vedurumudi Aditya** — a student from **Hyderabad, India**  <br>I’m passionate about learning and building solutions using data and automation.<br><br>- 🌱 I’m currently learning **data analysis skills using Python and SQL**<br>- 💼 I’m currently working on **Gym_Reservation_Bot**<br>😄 Pronouns: He/Him/His<br><br>📫 Reach me at:  <br>[![LinkedIn](https://img.shields.io/badge/-Vedurumudi%20Aditya-blue?logo=linkedin)](https://www.linkedin.com/in/vedurumudi-aditya/)  <br>[![Email](https://img.shields.io/badge/-adityavedurumudi@gmail.com-red?logo=gmail)](mailto:adityavedurumudi@gmail.com)<br>
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vedurumudi-Aditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vedurumudi-Aditya&icon=0&color=0)](https://visitcount.itsvg.in)

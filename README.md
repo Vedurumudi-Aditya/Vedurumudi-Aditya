@@ -1,4 +1,4 @@
-# 💫 About Me:     
+# 💫 About Me:      
 ## 👋 About Me<br><br>Hi, I'm **Vedurumudi Aditya** — a student from **Hyderabad, India**  <br>I’m passionate about learning and building solutions using data and automation.<br><br>- 🌱 I’m currently learning **data analysis skills using Python and SQL**<br>- 💼 I’m currently working on **Gym_Reservation_Bot**<br>-😄 Pronouns: He/Him/His<br><br>📫 Reach me at:  <br>[![LinkedIn](https://img.shields.io/badge/-Vedurumudi%20Aditya-blue?logo=linkedin)](https://www.linkedin.com/in/vedurumudi-aditya/)  <br>[![Email](https://img.shields.io/badge/-adityavedurumudi@gmail.com-red?logo=gmail)](mailto:adityavedurumudi@gmail.com)<br>
 
 

@@ -1,4 +1,4 @@
-# 💫 About Me:                                                                
+# 💫 About Me:                                                                    
 Hi, I'm Vedurumudi Aditya — a student from Hyderabad, India<br>I’m passionate about learning and building solutions using data and automation.<br><br>- 🌱 I’m currently learning data analysis skills using Python and SQL<br>- 💼 I’m currently working on Gym_Reservation_Bot<br>-😄 Pronouns: He/Him/His<br>
 
 
